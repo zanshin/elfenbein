@@ -29,11 +29,13 @@
 	</div>
 	<div id="content">
 		<h1>Welcome to Elfenbein Klaviermusik!</h1>
+		<!-- >
 		<div class="callout centerStudioPic">
 			<img src="img/pianoStudio.jpg" height="375" width="500" alt="The studio."/>
 			<p>The studio at Elfenbein Klaviermusik. &copy; 2009 Sibylle Kuder</p>
 		</div>
 		<br />
+		-->
 		<p>
 			Elfenbein Klaviermusik offers piano lessons to students who habitually show a high level of 
 			 enthusiasm, motivation and commitment. 
