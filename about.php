@@ -104,9 +104,11 @@
 			welcome to sit in on lessons.  Particular attention is given to a natural and injury-free
 			technique and to thorough mastery of all studied materials.
 		</p>
+		<!-- >
 		<p>
 			A <a href="http://sibyllekuder.com/pdfs/resume.pdf" target="_blank" title="Resume">PDF copy of my professional résumé is available</a> for download.
 		</p>
+		-->
 
 		<br />
 		<div id="navcontainer">
