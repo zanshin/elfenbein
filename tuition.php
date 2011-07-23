@@ -287,19 +287,31 @@
 		<br />
 		<br />
 		<p>
-			<strong>Fall & Spring Semester Lesson format:</strong>
+			<strong>Fall Semester Calendar and Tuition:</strong>
 		</p>
 		<p>
-			Young students, beginners, and most transfer students<sup>*</sup> receive two 30-minutes lessons 
-			per week, preferably Monday/Thursday or Tuesday/Friday. As with martial arts, gymnastics and 
-			other extra-curricular activities, this more frequent student-teacher contact and interaction 
-			reinforces the fundamental skills and practice techniques necessary for a successful, and 
-			enjoyable, piano experience. Twice weekly lessons also reduce the potential for incorrect 
-			practicing in between lessons, thus allowing us to focus more time on learning and less time 
-			on correcting inadvertent mistakes or having to re-learn last week’s concept. I am always more 
-			than willing to re-teach something if the student doesn’t understand the concept, but it is a waste 
-			of time to have to re-teach simply because too much time has elapsed since the last time we 
-			explored the new concept.
+			The 2011 Fall Semester starts August 24 and ends December 23, 2011.
+			<ul>
+			<li>September 22 - 28:  Germany trip, no lessons.</li>
+			<li>November 23:  no regular lessons, make-up lessons only.</li>
+			<li>November 24-26: Thanksgiving Break, no lessons.</li>
+			<li>December 19-23: no regular lessons, make-up lessons only.</li>
+			</ul>
+		</p>
+		<p>
+			<strong>Lesson format:</strong>
+		</p>
+		<p>
+			Young students, beginners, and most transfer students<sup>*</sup> receive two 45-minute 
+			partner lessons per week, preferably Monday/Thursday or Tuesday/Friday. As with martial arts,
+			gymnastics and other extra-curricular activities, this more frequent student-teacher contact 
+			and interaction reinforces the fundamental skills and practice techniques necessary for 
+			a successful, and enjoyable, piano experience. Twice weekly lessons also reduce the potential 
+			for incorrect practicing in between lessons, thus allowing us to focus more time on 
+			learning and less time on correcting inadvertent mistakes or having to re-learn 
+			last week’s concept. I am always more than willing to re-teach something if the student 
+			doesn’t understand the concept, but it is a waste of time to have to re-teach simply because 
+			too much time has elapsed since the last time we explored the new concept.
 		</p>
 		<p>
 			The goal is not to progress faster - though it is a welcome side effect - but to provide more 
@@ -356,6 +368,7 @@
 			additional cost. I will try to schedule group events at everyone's convenience.
 		</p>
 		<br />
+		<!-- removed 7/23/2011
 		<h2>Spring Semester Tuition</h2>
 		<p>
 			The 18 lesson weeks of the 2011 Spring Semester start January 3 and end May 27, 2011. No regular 
@@ -384,6 +397,7 @@
 			Monthly tuition is due the first of each month.
 		</p>
 		<br />
+		-->
 		<h2>For All Students</h2>
 		<p>
 			Included in the tuition are private piano instruction and group events, as well as recital
