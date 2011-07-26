@@ -78,7 +78,7 @@
 		</p>
 		<p>Lesson format</p>
 		<p class="indent">
-			Young students, beginners, and most transfer students<sup>*</sup> receive two 30-minutes 
+			Young students, beginners, and most transfer students<sup>*</sup> receive two 45-minute partner 
 			lessons per week, preferably Monday/Thursday or Tuesday/Friday. As with martial arts, gymnastics 
 			and other extra-curricular activities, this more frequent student-teacher contact and 
 			interaction reinforces the fundamental skills and practice techniques necessary for a 
@@ -114,7 +114,7 @@
 			I do not offer once-a-week 30-minute lessons.
 		</p>
 		<p class="indent">
-			Individual lessons are available upon request and will be billed at $40 per hour.
+			Individual lessons are available upon request and will be billed at $45 per hour.
 		</p>
 		<p class="indent">
 			Time and scheduling permitting, there will be group and performance classes offered at no 
