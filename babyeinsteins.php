@@ -4,6 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
 	<title>Elfenbein Klaviermusik - Piano Instruction for the Dedicated Student</title>
 	<meta name="keywords" content="piano, piano teaching, piano instruction, private piano instruction, piano performance, Manhattan, Junction City, Wamego, Riley, Ogden" />
 	<meta name="description" content="Private piano studio in Manhattan Kansas for dedicated students of all ages." />

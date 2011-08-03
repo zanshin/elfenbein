@@ -4,6 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
 	<title>Elfenbein Klaviermusik - Piano Instruction for the Dedicated Student</title>
 	<meta name="keywords" content="piano, piano teaching, piano instruction, private piano instruction, piano performance, Manhattan, Junction City, Wamego, Riley, Ogden" />
 	<meta name="description" content="Private piano studio in Manhattan Kansas for dedicated students of all ages." />
@@ -83,209 +84,6 @@
 		</p>
 		<br />
 		<h1>Tuition</h1>
-		<h2>Summer 2011  Piano & Music Program</h2>
-		<p>June 6  -  July 30, 2011    ~    8 teaching weeks</p>
-		<p>Two options:
-		<ul>
-			<li>
-				Regular Summer Piano:  Scale skills and repertoire during the weekly 45-minute lesson plus 
-				different group sessions which cover a wide variety of topics, such as ear training, theory, 
-				history, memorization, sight-playing, and more. 
-				<ul>
-					<li>
-						Elementary history classes will continue last summer’s “Stories of the Great Composers” 
-						and “Meet the Great Composers” series, elementary theory classes will use Keith 
-						Snell’s “Fundamentals of Piano Theory”. </li>
-					<li>
-						More advanced history and theory classes will study Johann Sebastian Bach with special 
-						focus on the Minuets (including “compose your own minuet!”), Inventions, The 
-						Well-Tempered Clavier, and the Concertos (piano and other instruments).</li>
-				</ul>
-			</li>
-			<li>
-				Piano “lite” is for students who are even busier in the summer than during the school year or 
-				those who want to take it a bit easier.  We cover scale skills and repertoire, a bit of theory 
-				and ear training, probably some computer work, too, all in a weekly 45-minute lesson.  There is 
-				the option to attend a group event instead of a piano lesson once in a while. </li>
-		</ul>
-		</p>
-		<p>
-			All summer piano lessons are 45 minutes long.  Group events vary in length, depending on topic and 
-			age/level of students. 
-		</p>
-		<p>
-			My schedule is very flexible in the summer - I am looking forward to being able to work around 
-			swimming lessons, tennis, summer camp, vacation bible school, etc., changing lesson times every 
-			week if necessary!
-		</p>
-		<p>
-			Since everyone’s vacation plans are different, you can sign up for anywhere from 4 weeks to 8 weeks 
-			of summer lessons.  Here is the tuition chart:
-			<table width="100%" border="0" cellpadding="1px" cellspacing="1px">
-				<tr>
-					<th>Summer 2011 Tuition</th>
-					<th>4 weeks</th>
-					<th>5 weeks</th>
-					<th>6 weeks</th>
-					<th>7 weeks</th>
-					<th>8 weeks</th>
-				</tr>
-				</th>
-				<tr>
-					<td>Regular Summer Piano: <br />weekly 45-min lessons + group events</td>
-					<td>$150</td>
-					<td>$180</td>
-					<td>$200</td>
-					<td>$220</td>
-					<td>$240</td>
-				</tr>
-				<tr>
-					<td>Piano “lite”: <br />weekly 45-min lessons</td>
-					<td>$120</td>
-					<td>$150</td>
-					<td>$170</td>
-					<td>$185</td>
-					<td>$200</td>
-				</tr>
-			</table>
-		</p>
-		
-		
-		<!-- removed 8/5.2010 mhn >
-		<h2>Summer 2010 Piano and Music Program &nbsp;&nbsp;~&nbsp;&nbsp; June 14 - July 31, 2010 &nbsp;&nbsp;~&nbsp;&nbsp; 7 teaching weeks</h2>
-		<p>
-			Offered are three different lesson format options:
-		</p>
-		<div class="indent">
-		<p>
-			<ol>
-			<li><strong>Weekly 45-minute group event plus 45-minute private piano lesson</strong> (= two meetings a week). Group events and private piano lessons can be scheduled back to back for students with the appropriate attention span.  Out-of-town students will have first priority when it comes to scheduling piano lessons around their group events.  I hope to offer the same group event twice each week to allow for more flexibility.</li>
-			<br />
-			<li><strong>Weekly 45-minute group event plus 30-minute private piano lesson</strong> (= two meetings a week).</li>
-		</p>
-
-		<p>
-			Since everyone’s vacation plans are different, you can sign up for anywhere from 4 weeks to 7 weeks of summer lessons. Here is the tuition chart:
-		</p>
-		<table width="100%" border="0" cellpadding="1px" cellspacing="1px">
-		<tr>
-			<td>Summer 2010 Tuition</td>
-			<td>4 wks</td>
-			<td>5 wks</td>
-			<td>6 wks</td>
-			<td>7 wks</td>
-		</tr>
-		<tr>
-			<td>group + 45-min private</td>
-			<td>$140</td>
-			<td>$160</td>
-			<td>$180</td>
-			<td>$195</td>
-		</tr>
-		<tr>
-			<td>group + 30-min private</td>
-			<td>$105</td>
-			<td>$120</td>
-			<td>$135</td>
-			<td>$145</td>
-		</tr>
-		</table>
-
-			<br />
-			<li>À la carte, individual 60-minute private piano lessons are available @ $45/lesson.</li>
-		</ol>
-		</div>
-		-->
-		<!-- removed for now... mhn 5/16/2010
-		<h2>Summer 2010 Calendar</h2>
-		<table width="50%" border="0" cellpadding="1px" cellspacing="1px">
-		<tr>
-			<td rowspan="2">week</td>
-			<td colspan="7">June / July 2010</td>
-		</tr>
-		<tr>
-			<td>M</td>
-			<td>Tu</td>
-			<td>W</td>
-			<td>Th</td>
-			<td>F</td>
-			<td>Sa</td>
-			<td>Su</td>
-		</tr>
-		<tr>
-			<td> 1</td>
-			<td> 14</td>
-			<td> 15</td>
-			<td> 16</td>
-			<td> 17</td>
-			<td> 18</td>
-			<td> 19</td>
-			<td> 20</td>
-		</tr>
-		<tr>
-			<td> 2</td>
-			<td> 21</td>
-			<td> 22</td>
-			<td> 23</td>
-			<td> 24</td>
-			<td> 25</td>
-			<td> 26</td>
-			<td> 27</td>
-		</tr>
-		<tr>
-			<td> 3</td>
-			<td> 28</td>
-			<td> 29</td>
-			<td> 30</td>
-			<td> 1</td>
-			<td> 2</td>
-			<td> 3</td>
-			<td> 4</td>
-		</tr>
-		<tr>
-			<td> 4</td>
-			<td> 5</td>
-			<td> 6</td>
-			<td> 7</td>
-			<td> 8</td>
-			<td> 9</td>
-			<td> 10</td>
-			<td> 11</td>
-		</tr>
-		<tr>
-			<td> 5</td>
-			<td> 12</td>
-			<td> 13</td>
-			<td> 14</td>
-			<td> 15</td>
-			<td> 16</td>
-			<td> 17</td>
-			<td> 18</td>
-		</tr>
-		<tr>
-			<td> 6</td>
-			<td> 19</td>
-			<td> 20</td>
-			<td> 21</td>
-			<td> 22</td>
-			<td> 23</td>
-			<td> 24</td>
-			<td> 25</td>
-		</tr>
-		<tr>
-			<td> 7</td>
-			<td> 26</td>
-			<td> 27</td>
-			<td> 28</td>
-			<td> 29</td>
-			<td> 30</td>
-			<td> 31</td>
-			<td> &nbsp;</td>
-		</tr>
-		</table>
-		-->
-		<br />
-		<br />
 		<p>
 			<strong>Fall Semester Calendar and Tuition:</strong>
 		</p>
@@ -297,6 +95,13 @@
 			<li>November 24-26: Thanksgiving Break, no lessons.</li>
 			<li>December 19-23: no regular lessons, make-up lessons only.</li>
 			</ul>
+		</p>
+		<p>
+			<strong>Semester Tuition:</strong>  
+		</p>
+		<p>
+			$450 payable as follows: $50 due August 10, $100 due on the first 
+			of September, October, November, December.
 		</p>
 		<p>
 			<strong>Lesson format:</strong>

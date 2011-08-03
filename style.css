@@ -2,9 +2,9 @@
 body {
 	padding: 0;
 	color: #000;
-    font-family: lucidia,verdana,sans-serif;
-    font-size: 12px;
-    line-height: 18px;
+    font-family: Muli,sans-serif;
+    font-size: 14px;
+    line-height: 24px;
 }
 html {
 	/* background:#f8f8f3 url(img/body-bg-2.png) repeat-x */
@@ -19,8 +19,8 @@ img {
 	text-align: center;
 }
 #header h1 { 	
-	font-size: 24px; 
-	line-height: 24px;
+	font-size: 30px; 
+	line-height: 36px;
   	margin-bottom: 0px; */
 }	
 #header h2 { 	
@@ -140,7 +140,7 @@ img {
 }
 #content h1 {
 	color: #000;
-	font-size: 14px;
+	font-size: 20px;
 	cursor: default;
 	display: block;
 	margin: 0px 0 15px 0px;
@@ -151,7 +151,7 @@ img {
 }
 #content h2 {
 	color: #000;
-	font-size: 12px;
+	font-size: 18px;
 	cursor: default;
 	display: block;
 	margin: 10px 0 10px 0;
@@ -162,7 +162,7 @@ img {
 }
 #content h3 {
 	color: #000;
-	font-size: 12px;
+	font-size: 16px;
 	font-style: italic;
 	cursor: default;
 	display: block;
@@ -174,7 +174,7 @@ img {
 }
 #content h4 {
 	color: #000;
-	font-size: 11px;
+	font-size: 14px;
 	font-style: italic;
 	cursor: default;
 	display: block;
@@ -470,7 +470,7 @@ td a:hover, td a:active {
 
 #album-wrapper #photo small {
     color: #fff;
-    font-size: 0.9em;
+    font-size: 1.0em;
 }
 
 /* that's all folks */

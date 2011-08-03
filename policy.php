@@ -4,6 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
 	<title>Elfenbein Klaviermusik - Piano Instruction for the Dedicated Student</title>
 	<meta name="keywords" content="piano, piano teaching, piano instruction, private piano instruction, piano performance, Manhattan, Junction City, Wamego, Riley, Ogden" />
 	<meta name="description" content="Private piano studio in Manhattan Kansas for dedicated students of all ages." />
@@ -54,13 +55,12 @@
 			block the first bay, even temporarily.
 		</p>
 		<p  class="indent">
-			Please be aware that I may not be available to open the door if you arrive more than 5 minutes 
+			Please be aware that I may not be available to answer the door if you arrive more than 5 minutes 
 			before your lesson time.
 		</p>
 		<p>Footwear</p>
 		<p class="indent">
-			Please remove your shoes as you enter the house. You may bring a clean pair of socks to wear in 
-			the studio.
+			Please remove your shoes as you enter the house. 
 		</p>
 		<p>Food and Drink</p>
 		<p class="indent">

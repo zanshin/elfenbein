@@ -96,6 +96,7 @@ function showLoginPasswordProtect($error_msg) {
 ?>
 <html>
 <head>
+  <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
   <title>Elfenbein Klaviermusik - Piano Instruction for the Dedicated Student</title>
   <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
   <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
