@@ -69,8 +69,10 @@
 		<p>
 			For many years, I have been involved in the MAMTA-sponsored Music Fair and Concerto
 			Competition (chairperson) and KMTA District and State Honors Auditions, as well as
-			Music Progressions (chairperson, adjudicator). Currently I am president of the Manhattan
-			Area Music Teachers Association (MAMTA).
+			Music Progressions (chairperson, adjudicator). I served as vice-president from 2007 - 2009, and
+			president from 2009 - 2011 for the Manhattan Area Music Teachers Association (MAMTA). Currently
+			I am the website administrator for <a href="http://manhattanareamusicteachers.org" 
+			title="Manhattan Area Music Teachers Assoication" target="_blank">MAMTA</a>.
 		<p>
 		<p>
 			I have over the past 20 years taught all ages and levels, including pre-piano
