@@ -85,23 +85,23 @@
 		<br />
 		<h1>Tuition</h1>
 		<p>
-			<strong>Spring Semester Calendar and Tuition:</strong>
+			<strong>Fall Semester Calendar and Tuition:</strong>
 		</p>
 		<p>
-			The 2012 Spring Semester starts January 7 and ends May 24, 2012.
+			The 2011 Fall Semester starts August 24 and ends December 23, 2011.
 			<ul>
-				<li>March 19 - 24  ~  Spring Break, no lessons</li>
-				<li>March 23 - 29  ~  MTNA conference in NYC, no lessons</li>
-				<li>March 30 -31  ~  no regular lessons, make-up lessons only</li>
-				<li>May 21 - 24  ~  no regular lessons, make-up lessons only</li>
+			<li>September 22 - 28:  Germany trip, no lessons.</li>
+			<li>November 23:  no regular lessons, make-up lessons only.</li>
+			<li>November 24-26: Thanksgiving Break, no lessons.</li>
+			<li>December 19-23: no regular lessons, make-up lessons only.</li>
 			</ul>
 		</p>
 		<p>
 			<strong>Semester Tuition:</strong>  
 		</p>
 		<p>
-			Semester Tuition:  $510, payable in one (due January 1), or two (due January 1 and March 1), or five 
-			monthly (due on the first of each month) installments.
+			$450 payable as follows: $50 due August 10, $100 due on the first 
+			of September, October, November, December.
 		</p>
 		<p>
 			<strong>Lesson format:</strong>
