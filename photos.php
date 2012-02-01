@@ -22,7 +22,7 @@
 	<script>
 	    var cesc = new flickrshow('cesc', {
 			autoplay:true,
-			interval:5000,
+			interval:4000,
 	        set:'72157614491723890'
 	    });
 	</script>
