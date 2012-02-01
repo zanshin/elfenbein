@@ -41,7 +41,7 @@
 			<?php include("navigation.php")?>
 		</div>
 		<div id="content">
-			<h1>Photographs from the Studio, travels, and elsewhere.</h1>
+			<h1>Photographs from the studio, travels, and elsewhere.</h1>
       <p>
         The following slide show requires JavaScript be enabled in your browser. By hovering your mouse
         over the image you can see the image caption, a play/stop control, and controls to move forward
