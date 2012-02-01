@@ -16,12 +16,9 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/ico" />
 	
 	<link rel="stylesheet" type="text/css" href="style.css" />
-	<link rel="stylesheet" type="text/css" href="thickbox.css" /> 
 
 	<script type="text/javascript" src="js/jquery-1.3.1.min.js"></script>
-	<script type="text/javascript" src="js/thickbox-compressed.js"></script>
 		
-<!--	<script type="text/javascript" src="js/script.js"></script> -->
 	<script src="/mint/?js" type="text/javascript"></script>
 
 </head>

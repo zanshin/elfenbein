@@ -16,13 +16,6 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/ico" />
 	
 	<link rel="stylesheet" type="text/css" href="style.css" />
-	<link rel="stylesheet" type="text/css" href="thickbox.css" /> 
-<!-- >
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-	<script type="text/javascript" src="galleria/galleria-1.2.6.min.js"></script>
-	<script type="text/javascript" src="galleria/plugins/flickr/galleria.flickr.min.js"></script>
-	<script type="text/javascript" src="galleria/themes/classic/galleria.classic.min.js"></script>
-	<script type="text/javascript" src="js/script.js"></script> -->
 	
 	<!-- http://www.flickrshow.co.uk/ -->
 	<script src="http://www.flickrshow.co.uk/static/scripts/flickrshow-7.2.min.js"></script>
@@ -33,7 +26,6 @@
 	        set:'72157614491723890'
 	    });
 	</script>
-	
 	
 	<script src="/mint/?js" type="text/javascript"></script>
 
