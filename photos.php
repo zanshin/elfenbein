@@ -1,29 +1,3 @@
-<?php
-require_once('includes/simplepie.inc');
-$feed = new Simplepie('http://api.flickr.com/services/feeds/photoset.gne?set=72157614491723890&nsid=19985007@N00&lang=en-us&format=atom');
-$feed->handle_content_type();
-
-function image_from_description($data) {
-    preg_match_all('/<img src="([^"]*)"([^>]*)>/i', $data, $matches);
-    return $matches[1][0];
-}
-
-function select_image($img, $size) {
-    $img = explode('/', $img);
-    $filename = array_pop($img);
-    
-    $s = array(
-        '_s.', // square
-        '_t.', // thumb
-        '_m.', // small
-        '.',   // medium
-        '_b.'  // large
-    );
-    
-    $img[] = preg_replace('/(_(s|t|m|b))?\./i', $s[$size], $filename);
-    return implode('/', $img);
-}
-?>
 <!DOCTYPE html PUBLIC
 	"-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -43,10 +17,24 @@ function select_image($img, $size) {
 	
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<link rel="stylesheet" type="text/css" href="thickbox.css" /> 
-
-	<script type="text/javascript" src="js/jquery-1.3.1.min.js"></script>
-	<script type="text/javascript" src="js/thickbox-compressed.js"></script>
-<!--	<script type="text/javascript" src="js/script.js"></script> -->
+<!-- >
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+	<script type="text/javascript" src="galleria/galleria-1.2.6.min.js"></script>
+	<script type="text/javascript" src="galleria/plugins/flickr/galleria.flickr.min.js"></script>
+	<script type="text/javascript" src="galleria/themes/classic/galleria.classic.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script> -->
+	
+	<!-- http://www.flickrshow.co.uk/ -->
+	<script src="http://www.flickrshow.co.uk/static/scripts/flickrshow-7.2.min.js"></script>
+	<script>
+	    var cesc = new flickrshow('cesc', {
+			autoplay:true,
+			interval:5000,
+	        set:'72157614491723890'
+	    });
+	</script>
+	
+	
 	<script src="/mint/?js" type="text/javascript"></script>
 
 </head>
@@ -62,43 +50,16 @@ function select_image($img, $size) {
 		</div>
 		<div id="content">
 			<h1>Photographs from the Studio, travels, and elsewhere.</h1>
-			<div id="album-wrapper">
-	            <?php foreach ($feed->get_items() as $item): ?>
-	                <div id="photo">
-	                    <?php
-	                        if ($enclosure = $item->get_enclosure()) {
-	                            // echo '<h2>' . $enclosure->get_title() . '</h2>'."\n";
-	                            $img = image_from_description($item->get_description());
-								
-	                            $full_url = select_image($img, 4);
-	                            $thumb_url = select_image($img, 0);
-								$not_available = "http://l.yimg.com/g/images/photo_unavailable.gif";
-								
-								// make sure the full size image exists
-								$timeout = 2;
-								$ch = curl_init();
-								curl_setopt($ch, CURLOPT_URL, $full_url);			// set the URL we are interested in
-								curl_setopt($ch, CURLOPT_HEADER, 1);  				// bring back the HEADER
-								curl_setopt($ch, CURLOPT_NOBODY, 1);				// and just the HEADER please
-								curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);        // don't show results in browswer
-								curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $timeout); // time out after the value set above
-								$output = curl_exec($ch);
-								curl_close($ch);
-								// test the result
-								if (strpos($output,$not_available) > 0) {
-									$full_url = select_image($img, 3);
-								}
-	                            echo '<a href="' . $full_url . '" class="thickbox" title="' . $enclosure->get_title() . '">
-									  <img id="photo_' . $i . '" src="' . $thumb_url . '" /></a>'."\n";
-	                        }
-	                    ?>
-						<p><small><?php echo $item->get_title(); ?></small></p>
-						<!--
-	                    <p><small><?php echo $item->get_date('j F Y | g:i a'); ?></small></p>
-					-->
-	                </div>
-	            <?php endforeach; ?>
+      <p>
+        The following slide show requires JavaScript be enabled in your browser. By hovering your mouse
+        over the image you can see the image caption, a play/stop control, and controls to move forward
+        or backward through the images.
+		
+			<div style="width:100%; height:100%;" id="cesc">
+			    <p>Please enable Javascript to view this slideshow</p>
+			<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 			</div>
+
 			<br /><br />
 			<div id="navfooter">
 				<?php include("navigation.php")?>
