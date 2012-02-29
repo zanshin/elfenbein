@@ -63,7 +63,7 @@
 		<li>Adjustable benches and an adjustable foot pedal stool to accommodate pianists of all sizes </li>
 		<li>Yamaha P85 Digital Piano, for recording to Sibelius Music Notation software</li>
 		<li>Edirol R-09HR Digital Stereo Recorder, for recording musical performances in high quality</li>
-		<li><a href="http://www.samsontech.com/products/productpage.cfm?prodID=2020" title"Zoom Q3" target="_blank">Zoom Q3</a> Video Recorder, for creating performance and practice videos</li>
+		<li>Zoom Q3 HD Video Recorder, for creating performance and practice videos</li>
 		<li>Computer station with educational software (Music Ace, Professor Piccolo, Music Conservatory, etc.)</li>
 		<li> Extensive music library, including sheet music, audio material, and reference material</li>
 		</ul>
