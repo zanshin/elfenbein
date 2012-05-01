@@ -84,9 +84,7 @@
 		</p>
 		<br />
 		<h1>Tuition</h1>
-		<p>
-			<strong>Spring Semester Calendar and Tuition:</strong>
-		</p>
+		<h2>Spring Semester Calendar and Tuition:</h2>
 		<p>
 			The 2012 Spring Semester starts January 7 and ends May 24, 2012.
 			<ul>
@@ -103,6 +101,31 @@
 			Semester Tuition:  $510, payable in one (due January 1), or two (due January 1 and March 1), or five 
 			monthly (due on the first of each month) installments.
 		</p>
+    <h2>Summer Semester Calendar and Tuition:</h2>
+    <p>
+      Piano Summer 2012 starts June 4 and ends July 26, 2012.
+    </p>
+    <p>
+      The Summer schedule is flexible. You can have as many lessons per week as your schedule allows. 
+      Lessons can be scheduled 10 a.m. - 6 p.m., Monday - Thursday, between June 4 and July 26.
+    </p>
+    <p>
+      <strong>Summer Tuition: </strong>
+    </p>
+    <p>
+      All private piano lessons are 45 minutes.  Group lessons are offered at no additional charge.
+      <ul>
+        <li>Six piano lessons:  $200</li>
+        <li>Seven piano lessons:  $220</li>
+        <li>Eight piano lessons :  $240</li>
+      </ul>
+    </p>
+    <p>
+      Partner lessons are available: two students share twice-weekly 45-min lessons; tuition as above.
+    </p>
+    <p>
+      Individual lessons are available at $50/hour.
+    </p>
 		<p>
 			<strong>Lesson format:</strong>
 		</p>
@@ -166,7 +189,7 @@
 			</p>
 			-->
 			<p>
-			Individual lessons are available upon request and will be billed at $45 per hour.
+			Individual lessons are available upon request and will be billed at $50 per hour.
 			</p>
 			<p>
 			Time and scheduling permitting, there will be group and performance classes offered at no 

@@ -114,7 +114,7 @@
 			I do not offer once-a-week 30-minute lessons.
 		</p>
 		<p class="indent">
-			Individual lessons are available upon request and will be billed at $45 per hour.
+			Individual lessons are available upon request and will be billed at $50 per hour.
 		</p>
 		<p class="indent">
 			Time and scheduling permitting, there will be group and performance classes offered at no 
