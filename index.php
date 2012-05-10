@@ -29,6 +29,7 @@
 		<?php include("navigation.php")?>
 	</div>
 	<div id="content">
+    <?php include("announcement.php")?>
 		<h1>Welcome to Elfenbein Klaviermusik!</h1>
 		<!-- >
 		<div class="callout centerStudioPic">

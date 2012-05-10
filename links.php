@@ -28,6 +28,7 @@
 		<?php include("navigation.php")?>
 	</div>
 	<div id="content">
+    <?php include("announcement.php")?>
 		<h2>Articles and Websites about Technique</h2>
 		<ul>
 		<li><a href="http://www.golandskyinstitute.org/"

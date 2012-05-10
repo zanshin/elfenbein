@@ -28,6 +28,7 @@
 		<?php include("navigation.php")?>
 	</div>
 	<div id="content">
+    <?php include("announcement.php")?>
 		<h1>Testimonials</h1>
 		<p class="quote">
 			I am writing this email to express my gratitude to UFM for offering an excellent piano course (Piano II) to music loving, but 

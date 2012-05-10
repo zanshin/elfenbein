@@ -28,6 +28,7 @@
 		<?php include("navigation.php")?>
 	</div>
 	<div id="content">
+    <?php include("announcement.php")?>
 		<h1>A Word About Tuition</h1>
 		<p>
 			What you pay is tuition.  It is  not an hourly fee for services rendered

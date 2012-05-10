@@ -41,6 +41,7 @@
 			<?php include("navigation.php")?>
 		</div>
 		<div id="content">
+      <?php include("announcement.php")?>
 			<h1>Photographs from the studio, travels, and elsewhere.</h1>
       <p>
         The following slide show requires JavaScript be enabled in your browser. By hovering your mouse

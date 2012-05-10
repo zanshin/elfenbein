@@ -28,6 +28,7 @@
 		<?php include("navigation.php")?>
 	</div>
 	<div id="content">
+    <?php include("announcement.php")?>
 		<h1>Mission Statement and Studio Policy</h1>
 		<p><u>KMTA Mission Statement: </u></p>
 		<p class="quote">

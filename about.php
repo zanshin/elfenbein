@@ -28,11 +28,14 @@
 		<?php include("navigation.php")?>
 	</div>
 	<div id="content">
+    <?php include("announcement.php")?>
 		<h1>About the Teacher</h1>
+    <!-- >
 		<div class="callout right">
 			<img src="img/atThePianoManhattan.jpg" height="266" width="400" alt="Sibylle Kuder"/>
 			<p>Sibylle Kuder, in her Manhattan studio. &copy; 2009 Mark Nichols</p>
 		</div>
+    -->
 		<p>
 			My name is Sibylle Kuder. I was born and raised in Germany. From age 12 until about 19,
 			I studied piano with the Hungarian pianist Barbara Fry at the Winnender
