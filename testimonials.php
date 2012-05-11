@@ -30,6 +30,23 @@
 	<div id="content">
     <?php include("announcement.php")?>
 		<h1>Testimonials</h1>
+    <p class="quote">
+      Special thanks to Sibylle Kuder: for making sure I formed good habits; for teaching perfect practice; and for her hours spent
+      finding pieces for me - I still love to play Clementi in C.
+    </p>
+    <p class="right">
+      from the program for Jim Weaver's <br />Kansas State University Senior Piano Recital, performed <br />Tuesday, April 3, 2012 in All Faiths Chapel.
+    </p>
+    <hr style="clear: both;" width="75%">
+    <p class="quote">
+      Sibylle, <br />
+      Thank you for teaching so effectively  and thoughtfully. You are brilliant! We are enjoying the fruits of your efforts as we
+      listen to T. and S. play the piano.
+    </p>
+    <p class="right">
+      The K. Family
+    </p>
+    <hr style="clear: both;" width="75%">
 		<p class="quote">
 			I am writing this email to express my gratitude to UFM for offering an excellent piano course (Piano II) to music loving, but 
 			otherwise unconfident in learning piano playing, adults like me.  Ms. Sibylle Kuder did an excellent job teaching this course. [...] 
