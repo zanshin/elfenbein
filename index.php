@@ -78,6 +78,10 @@
 			every one. Parents, this initial session gives you and your child a chance to see how they react to me and my
 			teaching style.  The first meeting usually lasts twenty to thirty minutes and is free of charge.
 		</p>
+		<div class="callout right">
+			<img src="img/oldpiano.jpg" height="585" width="405" alt="If you learn to play this one, we'll get you a better piano cartoon."/>
+			<p>Image source unknown</p>
+		</div>
 		<p>
 			All students must have a good instrument at home for practice. The best instrument is a good quality, well 
 			maintained grand piano. However, space restrictions and cost often make this less of an option. A good quality 
