@@ -57,6 +57,7 @@
 			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994 and is
 			conveniently located in Lee Mill Heights off Miller Parkway.
 		</p>
+    <?php include("announcement2.php")?>
 		<br />
 		<h2>The Studio</h2>
 		<ul>

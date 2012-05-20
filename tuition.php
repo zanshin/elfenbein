@@ -102,6 +102,7 @@
 			Semester Tuition:  $510, payable in one (due January 1), or two (due January 1 and March 1), or five 
 			monthly (due on the first of each month) installments.
 		</p>
+    <br />
     <h2>Summer Semester Calendar and Tuition:</h2>
     <p>
       Piano Summer 2012 starts June 4 and ends July 26, 2012.
@@ -127,9 +128,32 @@
     <p>
       Individual lessons are available at $50/hour.
     </p>
-		<p>
-			<strong>Lesson format:</strong>
-		</p>
+    <h2>Pre-School Music Program</h2>
+    <p>
+      Group lessons for 4 and 5 year olds. Two options: Pre-piano for those students entering kindergarten this fall, 
+      and pre-school music for those 4 and pre-K 5 year olds not entering kindergarten this year.
+    </p>
+    <p>
+      The curriculum is unique, based on several Early Childhood Music and Movement programs and ideas: Musikgarten, 
+      Shinichi Suzuki, Maria Montessori, John Feierabend, Rudolf Steiner, to name just a few.</p>
+    <p>
+      The goal is to expose young children to music and movement in a group setting, with parents or care-givers 
+      actively involved in music making and responding to music.</p>
+    <p>
+      We will learn finger plays, rhymes, songs, circle dances and more. We will learn to sing in tune, to respond 
+      appropriately to different types of music, to move in time with music. Much emphasis is placed on listening: both 
+      to music and to instructions. Being able to follow instructions will benefit a child not only in the upcoming school 
+      years but also when they start to learn an instrument.</p>
+    <p>
+      There will be written materials available for parents, either after class or via email, with songs, rhymes, finger 
+      plays, etc. covered in class, as well as further explanations of topics, etc.</p>
+    <p>
+      These group lessons are available Mondays, Tuesdays, and Thursday from June 4th through July 27th. Tuition is $50 for 
+      the entire summer. Please download the <a href="http://sibyllekuder.com/pdfs/SummerPreSchoolMusicProgram.pdf" target="_blank" title="Resume">Summer Pre-School Music Program</a> 
+      brochure for complete details or to sign up.
+    </p>
+    <br />
+		<h2>Lesson format:</h2>
 		<p>
 			Young students, beginners, and most transfer students<sup>*</sup> receive two 45-minute 
 			partner lessons per week, preferably Monday/Thursday or Tuesday/Friday. As with martial arts,
