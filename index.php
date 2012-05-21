@@ -79,7 +79,7 @@
 			teaching style.  The first meeting usually lasts twenty to thirty minutes and is free of charge.
 		</p>
 		<div class="callout right">
-			<img src="img/oldpiano.jpg" height="585" width="405" alt="If you learn to play this one, we'll get you a better piano cartoon."/>
+			<img src="img/oldpiano.jpg" height="300" width="207" alt="If you learn to play this one, we'll get you a better piano cartoon."/>
 			<p>Image source unknown</p>
 		</div>
 		<p>
