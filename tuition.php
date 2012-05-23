@@ -38,14 +38,12 @@
 		<p>
 			Here's a brief overview of what your tuition pays for:
 		</p>
-
 		<p>
 			The <strong>obvious</strong>: "contact hours" - that is, the piano lesson, private or group;
 			preparation and evaluation of lesson plans, materials, etcetera. Bookkeeping
 			and organizing: lesson scheduling, recital planning and scheduling,
 			organizing and preparing students for performances and seasonal activities.
 		</p>
-
 		<p>
 			The <strong>no-so-obvious</strong>: review of new materials, software programs, audio CDs,
 			videos, et cetera, which the students might use. In teaching, one size does
@@ -55,7 +53,6 @@
 			How will we get there? What are the possible road blocks that need to be
 			addressed?  And so on.
 		</p>
-
 		<p>
 			<strong>Additionally</strong>, review and evaluation of my materials, such as books on
 			teaching, professional journals (notably <i>American Music Teacher</i>,
@@ -83,6 +80,9 @@
 			These memberships allow my students to participate in local, state-wide, and national 
 			auditions and competitions.
 		</p>
+    <p>
+      Tuition is evaluated and adjusted annually before the start of the fall semester.
+    </p>
 		<br />
 		<h1>Tuition</h1>
 		<h2>Spring Semester Calendar and Tuition:</h2>
