@@ -17,7 +17,7 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/ico" />
 	<link href="style.css" rel="stylesheet" type="text/css" />
 	<script src="/js/protect.js" type="text/javascript"></script>
-	<script src="/mint/?js" type="text/javascript"></script>
+	<script src="http://markn.webfactional.com/elfenbein/mint/?js" type="text/javascript"></script>
 
 </head>
 

@@ -19,7 +19,7 @@
 
 	<script type="text/javascript" src="js/jquery-1.3.1.min.js"></script>
 		
-	<script src="/mint/?js" type="text/javascript"></script>
+	<script src="http://markn.webfactional.com/elfenbein/mint/?js" type="text/javascript"></script>
 
 </head>
 

@@ -47,7 +47,7 @@ function select_image($img, $size) {
 	<script type="text/javascript" src="js/jquery-1.3.1.min.js"></script>
 	<script type="text/javascript" src="js/thickbox-compressed.js"></script>
 <!--	<script type="text/javascript" src="js/script.js"></script> -->
-	<script src="/mint/?js" type="text/javascript"></script>
+	<script src="http://markn.webfactional.com/elfenbein/mint/?js" type="text/javascript"></script>
 
 </head>
 

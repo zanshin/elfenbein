@@ -103,7 +103,7 @@ function showLoginPasswordProtect($error_msg) {
   <link rel="shortcut icon" href="img/favicon.ico" type="image/ico" />
   <link href="style.css" rel="stylesheet" type="text/css" />
   <link href="forms.css" rel="stylesheet" type="text/css" />
-  <script src="/mint/?js" type="text/javascript"></script>
+  <script src="http://markn.webfactional.com/elfenbein/mint/?js" type="text/javascript"></script>
 </head>
 <body OnLoad="document.access.access_password.focus();">
 	<div id="container">
