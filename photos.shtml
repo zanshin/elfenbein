@@ -3,7 +3,7 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-  <!--#include file="head.html" -->
+  <!--#include file="head.shtml" -->
 	
 	<!-- http://www.flickrshow.co.uk/ -->
 	<script src="http://www.flickrshow.co.uk/static/scripts/flickrshow-7.2.min.js"></script>
@@ -19,14 +19,14 @@
 <body>
     <div id="container">
 		<div id="header">
-			<!--#include file="header.html" -->
+			<!--#include file="header.shtml" -->
 		</div>
 
 		<div id="navcontainer">
-			<!--#include file="navigation.html" -->
+			<!--#include file="navigation.shtml" -->
 		</div>
 		<div id="content">
-      <!--#include file="announcement.html" -->
+      <!--#include file="announcement.shtml" -->
 			<h1>Photographs from the studio, travels, and elsewhere.</h1>
       <p>
         The following slide show requires JavaScript be enabled in your browser. By hovering your mouse
@@ -40,11 +40,11 @@
 
 			<br /><br />
 			<div id="navfooter">
-				<!--#include file="navigation.html" -->
+				<!--#include file="navigation.shtml" -->
 			</div>
         </div>
 		<div id="footer">
-			<!--#include file="footer.html" -->
+			<!--#include file="footer.shtml" -->
 		</div>
 		</div>
 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">

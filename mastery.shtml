@@ -3,18 +3,18 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-  <!--#include file="head.html" -->
+  <!--#include file="head.shtml" -->
 </head>
 
 
 <body>
 	<div id="container">
 		<div id="header">
-			<!--#include file="header.html" -->
+			<!--#include file="header.shtml" -->
 		</div>
 
 	<div id="navcontainer">
-		<!--#include file="navigation.html" -->
+		<!--#include file="navigation.shtml" -->
 	</div>
 	<div id="content">
 		<h1>Mastery</h1>
@@ -83,11 +83,11 @@
 		</blockquote>
 		<br />
 		<div id="navcontainer">
-			<!--#include file="navigation.html" -->
+			<!--#include file="navigation.shtml" -->
 		</div>
 	</div>
 	<div id="footer">
-		<!--#include file="footer.html" -->
+		<!--#include file="footer.shtml" -->
 	</div>
 	</div>
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">

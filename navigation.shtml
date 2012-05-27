@@ -1,10 +1,10 @@
 <ul id="navlist">
-	<li><a href="index.php" title="home">Home</a></li>
-	<li><a href="about.php" title="About the Teacher">About the Teacher</a></li>
-	<li><a href="photos.php" title="Photographs">Photos</a></li> 
-	<li><a href="testimonials.php" title="Testimonials">Testimonials</a></li>
-	<li><a href="calendar.php" title="My schedule">Calendar</a></li>
-	<li><a href="tuition.php" title="A word about tuition">Tuition</a></li>
-	<li><a href="policy.php" title="Studio Policy">Studio Policy</a></li>
-	<li><a href="links.php" title="links">Links</a></li>
+	<li><a href="index.shtml" title="home">Home</a></li>
+	<li><a href="about.shtml" title="About the Teacher">About the Teacher</a></li>
+	<li><a href="photos.shtml" title="Photographs">Photos</a></li> 
+	<li><a href="testimonials.shtml" title="Testimonials">Testimonials</a></li>
+	<!-- ><li><a href="calendar.shtml" title="My schedule">Calendar</a></li>< -->
+	<li><a href="tuition.shtml" title="A word about tuition">Tuition</a></li>
+	<li><a href="policy.shtml" title="Studio Policy">Studio Policy</a></li>
+	<li><a href="links.shtml" title="links">Links</a></li>
 </ul>

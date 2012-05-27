@@ -3,20 +3,20 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-  <!--#include file="head.html" -->
+  <!--#include file="head.shtml" -->
 </head>
 
 <body>
 	<div id="container">
 		<div id="header">
-			<!--#include file="header.html" -->
+			<!--#include file="header.shtml" -->
 		</div>
 
 	<div id="navcontainer">
-		<!--#include file="navigation.html" -->
+		<!--#include file="navigation.shtml" -->
 	</div>
 	<div id="content">
-    <!--#include file="announcement.html" -->
+    <!--#include file="announcement.shtml" -->
 		<h1>Welcome to Elfenbein Klaviermusik!</h1>
 		<!-- >
 		<div class="callout centerStudioPic">
@@ -44,7 +44,7 @@
 			Elfenbein Klaviermusik has been serving the Greater Manhattan Kansas area since 1994 and is
 			conveniently located in Lee Mill Heights off Miller Parkway.
 		</p>
-    <!--#include file="announcement2.html" -->
+    <!--#include file="announcement2.shtml" -->
 		<br />
 		<h2>The Studio</h2>
 		<ul>
@@ -131,11 +131,11 @@
 		<br />
 		<br />
 		<div id="navcontainer">
-			<!--#include file="navigation.html" -->
+			<!--#include file="navigation.shtml" -->
 		</div>
 	</div>
 	<div id="footer">
-		<!--#include file="footer.html" -->
+		<!--#include file="footer.shtml" -->
 	</div>
 	</div>
 

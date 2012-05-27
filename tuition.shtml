@@ -3,21 +3,21 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-  <!--#include file="head.html" -->
+  <!--#include file="head.shtml" -->
 </head>
 
 
 <body>
 	<div id="container">
 		<div id="header">
-			<!--#include file="header.html" -->
+			<!--#include file="header.shtml" -->
 		</div>
 
 	<div id="navcontainer">
-		<!--#include file="navigation.html" -->
+		<!--#include file="navigation.shtml" -->
 	</div>
 	<div id="content">
-    <!--#include file="announcement.html" -->
+    <!--#include file="announcement.shtml" -->
 		<h1>A Word About Tuition</h1>
 		<p>
 			What you pay is tuition.  It is  not an hourly fee for services rendered
@@ -261,11 +261,11 @@
 
 		<br />
 		<div id="navcontainer">
-			<!--#include file="navigation.html" -->
+			<!--#include file="navigation.shtml" -->
 		</div>
 	</div>
 	<div id="footer">
-		<!--#include file="footer.html" -->
+		<!--#include file="footer.shtml" -->
 	</div>
 	</div>
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
