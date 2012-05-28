@@ -1,2 +1,38 @@
 RewriteEngine on
-Redirect 301 /schedule.php http://sibyllekuder.com/calendar.php
+RewriteBase /
+
+# eliminate the need for the www
+RewriteCond %{HTTP_HOST} ^www\.sibyllekuder\.com$
+RewriteRule (.*) http://sibyllekuder.com/$1 [R=Permanent]
+
+# redirect old php refs to shtml
+Redirect 301 about.php http://sibyllekuder.com/about.shtml
+Redirect 301 babyeinsteins.php http://sibyllekuder.com/babyeinsteins.shtml
+Redirect 301 calendar.php http://sibyllekuder.com/calendar.shtml
+Redirect 301 concerto.php http://sibyllekuder.com/concerto.shtml
+Redirect 301 crescendo.php http://sibyllekuder.com/crescendo.shtml
+Redirect 301 decrescendo.php http://sibyllekuder.com/decrescendo.shtml
+Redirect 301 index.php http://sibyllekuder.com/index.shtml
+Redirect 301 links.php http://sibyllekuder.com/links.shtml
+Redirect 301 mastery.php http://sibyllekuder.com/mastery.shtml
+Redirect 301 photos.php http://sibyllekuder.com/photos.shtml
+Redirect 301 piano_lessons.php http://sibyllekuder.com/piano_lessons.shtml
+Redirect 301 policy.php http://sibyllekuder.com/policy.shtml
+Redirect 301 testimonals.php http://sibyllekuder.com/testimonials.shtml
+Redirect 301 tuition.php http://sibyllekuder.com/tuition.shtml
+Redirect 301 videos.php http://sibyllekuder.com/videos.shtml
+Redirect 301 young_children.php http://sibyllekuder.com/young_children.shtml
+
+# Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+# Prevent directory listings
+Options All -Indexes
+
+# Eliminate need for .shtml file type
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)\.shtml$ /$1 [L,R=301] 
