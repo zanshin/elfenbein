@@ -29,6 +29,11 @@ order allow,deny
 deny from all
 </Files>
 
+# block specific IP addresses
+order allow,deny
+deny from 97.93.94.73   # stipp
+allow from all
+
 # Prevent directory listings
 Options All -Indexes
 
